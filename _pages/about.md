@@ -80,8 +80,8 @@ My research interest includes LLMs and Recommender Systems.
 
 
 # 🎖 Honors and Awards
-- *October 2022* &nbsp; **National Scholarship**, Ministry of Education of the People's Republic of China  
-- *October 2020* &nbsp; **National Scholarship**, Ministry of Education of the People's Republic of China  
+- *October 2022* &nbsp; **National Scholarship**, Ministry of Education of the People's Republic of China 
+- *October 2020* &nbsp; **National Scholarship**, Ministry of Education of the People's Republic of China 
 
 # 📖 Education
 - **2023.09 – Present** &nbsp; Master in Information and Communication Engineering,  
