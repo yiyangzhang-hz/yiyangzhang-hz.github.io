@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Nice to meet you! I am Yiyang Zhang (张一阳), currently a second year Master student at the the School of Information Science and Technology of University of Science and Technology of China (USTC), supervised by  <a href='https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl=en&oi=ao'>Prof. Yongdong Zhang</a>. Before joining USTC, I obtained my B.S. degree in Communication Engineering from Shandong University in 2023.
+Nice to meet you! I am Yiyang Zhang (张一阳), currently a second year Master student at the the School of Information Science and Technology of University of Science and Technology of China (USTC), supervised by  <a href='https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl=en&oi=ao'>Prof. Yongdong Zhang</a>. Before joining USTC, I obtained my B.E. degree in Communication Engineering from Shandong University in 2023.
 
 My research interest includes LLMs and Recommender Systems. 
 
@@ -43,7 +43,7 @@ My research interest includes LLMs and Recommender Systems.
   </div>
   <div class='paper-box-text' markdown="1">
     <h2>ACE: Attention-Calibrated Encoding for LLM-based Recommendation</h2>
-    **Yiyang Zhang**, Zheren Fu, Bo Hu, Zhendong Mao  
+    <strong>Yiyang Zhang</strong>, Zheren Fu, Bo Hu, Zhendong Mao  
     <div class="periodical"><em>NeurIPS Submitting</em></div>
   </div>
 </div>
@@ -58,7 +58,7 @@ My research interest includes LLMs and Recommender Systems.
   </div>
   <div class='paper-box-text' markdown="1">
     <h2>PPT: A Minor Language News Recommendation Model via Cross-Lingual Preference Pattern Transfer</h2>
-    **Yiyang Zhang**, Nan Chen  
+    <strong>Yiyang Zhang</strong>, Nan Chen  
     <div class="periodical"><em>ACL 2025 (Main Conference)</em></div>
   </div>
 </div>
@@ -73,21 +73,21 @@ My research interest includes LLMs and Recommender Systems.
   </div>
   <div class='paper-box-text' markdown="1">
     <h2>Artificial Bee Colony Algorithm Based on Dimensional Memory Mechanism and Adaptive Elite Population for Training Artificial Neural Networks</h2>
-    **Yiyang Zhang**, Bao Pang, Yong Song, Qingyang Xu, Xianfeng Yuan  
+    <strong>Yiyang Zhang</strong>, Bao Pang, Yong Song, Qingyang Xu, Xianfeng Yuan  
     <div class="periodical"><em>IEEE Access</em></div>
   </div>
 </div>
 
 
 # 🎖 Honors and Awards
-- *October 2022* &nbsp; **National Scholarship**, Ministry of Education of the People's Republic of China 
-- *October 2020* &nbsp; **National Scholarship**, Ministry of Education of the People's Republic of China 
+- *October 2022*: &nbsp; **National Scholarship**, Ministry of Education of the People's Republic of China 
+- *October 2020*: &nbsp; **National Scholarship**, Ministry of Education of the People's Republic of China 
 
 # 📖 Education
-- **2023.09 – Present** &nbsp; Master in Information and Communication Engineering,  
+- **2023.09 – Present**: &nbsp; Master in Information and Communication Engineering,  
   University of Science and Technology of China (USTC)  
   Advisor: [Prof. Yongdong Zhang](https://scholar.google.com/citations?user=hxGs4ukAAAAJ)
 
-- **2019.09 – 2023.06** &nbsp; Bachelor in Communication Engineering  
+- **2019.09 – 2023.06**: &nbsp; Bachelor in Communication Engineering  
   Shandong University (SDU) – *Honors Program in Quantum Information Engineering*
 
