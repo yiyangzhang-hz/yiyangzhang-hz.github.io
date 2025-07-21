@@ -23,7 +23,7 @@ My research interest includes LLMs and Recommender Systems.
 
 
 # 🔥 News
-- *May 26, 2025*: &nbsp;🎉🎉 Our paper, "PPT: A Minor Language News Recommendation Model via Cross-Lingual Preference Pattern Transfer", was accepted by ACL 2025 (Main Conference)!
+- *May 16, 2025*: &nbsp;🎉🎉 Our paper, "PPT: A Minor Language News Recommendation Model via Cross-Lingual Preference Pattern Transfer", was accepted by ACL 2025 (Main Conference)!
 - *Oct, 2023*: &nbsp; 🎉🎉 My undergraduate research work, "Artificial Bee Colony Algorithm Based on Dimensional Memory Mechanism and Adaptive Elite Population for Training Artificial Neural Networks," was published in IEEE Access!
 - *Sept, 2023*: &nbsp; 🎉🎉 We won third place in the Cross-platform Account Linkage Track of the 5th Communication Data Mining Competition! 
 - *Sept, 2023*: &nbsp; 😎😎 I started my postgraduate journey at University of Science and Technology of China!
