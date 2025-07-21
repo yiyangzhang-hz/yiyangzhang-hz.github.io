@@ -41,9 +41,9 @@ My research interest includes LLMs and Recommender Systems.
       <img src='images/ACE.png' alt="ACE" width="100%">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
+  <div class='paper-box-text'>
     <h2>ACE: Attention-Calibrated Encoding for LLM-based Recommendation</h2>
-    <strong>Yiyang Zhang</strong>, Zheren Fu, Bo Hu, Zhendong Mao  
+    <p><strong>Yiyang Zhang</strong>, Zheren Fu, Bo Hu, Zhendong Mao</p>
     <div class="periodical"><em>NeurIPS Submitting</em></div>
   </div>
 </div>
@@ -56,9 +56,9 @@ My research interest includes LLMs and Recommender Systems.
       <img src='images/PPT.png' alt="PPT" width="100%">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
+  <div class='paper-box-text'>
     <h2>PPT: A Minor Language News Recommendation Model via Cross-Lingual Preference Pattern Transfer</h2>
-    <strong>Yiyang Zhang</strong>, Nan Chen  
+    <p><strong>Yiyang Zhang</strong>, Nan Chen</p>
     <div class="periodical"><em>ACL 2025 (Main Conference)</em></div>
   </div>
 </div>
@@ -71,9 +71,9 @@ My research interest includes LLMs and Recommender Systems.
       <img src='images/DMABC.png' alt="DMABC" width="100%">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
+  <div class='paper-box-text'>
     <h2>Artificial Bee Colony Algorithm Based on Dimensional Memory Mechanism and Adaptive Elite Population for Training Artificial Neural Networks</h2>
-    <strong>Yiyang Zhang</strong>, Bao Pang, Yong Song, Qingyang Xu, Xianfeng Yuan  
+    <p><strong>Yiyang Zhang</strong>, Bao Pang, Yong Song, Qingyang Xu, Xianfeng Yuan</p>
     <div class="periodical"><em>IEEE Access</em></div>
   </div>
 </div>
