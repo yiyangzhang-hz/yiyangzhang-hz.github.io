@@ -21,7 +21,7 @@ Nice to meet you! I am Yiyang Zhang (张一阳), currently a second year Master 
 
 My research interest includes LLMs and Recommender Systems. 
 
-Feel free to contact me at yiyangzhang@mail.ustc.edu.cn.
+Feel free to contact me at [yiyangzhang@mail.ustc.edu.cn](mailto:yiyangzhang@mail.ustc.edu.cn).
 
 
 # 🔥 News
