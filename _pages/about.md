@@ -21,6 +21,8 @@ Nice to meet you! I am Yiyang Zhang (张一阳), currently a second year Master 
 
 My research interest includes LLMs and Recommender Systems. 
 
+Feel free to contact me at yiyangzhang@mail.ustc.edu.cn.
+
 
 # 🔥 News
 - *May 16, 2025*: &nbsp;🎉🎉 Our paper, "PPT: A Minor Language News Recommendation Model via Cross-Lingual Preference Pattern Transfer", was accepted by ACL 2025 (Main Conference)!
