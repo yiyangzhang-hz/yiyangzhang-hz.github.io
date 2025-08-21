@@ -62,6 +62,11 @@ Feel free to contact me at [yiyangzhang@mail.ustc.edu.cn](mailto:yiyangzhang@mai
     <h2>PPT: A Minor Language News Recommendation Model via Cross-Lingual Preference Pattern Transfer</h2>
     <p><strong>Yiyang Zhang</strong>, Nan Chen</p>
     <div class="periodical"><em>ACL 2025 (Main Conference)</em></div>
+    <p>
+    <a href="https://github.com/yiyangzhang-hz/PPT" target="_blank" style="text-decoration:none;">
+      <i class="fab fa-github"></i> GitHub
+    </a>
+  </p>
   </div>
 </div>
 
