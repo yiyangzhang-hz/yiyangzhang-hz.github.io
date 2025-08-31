@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Nice to meet you! I am Yiyang Zhang (张一阳), currently a second year Master student at the the School of Information Science and Technology of University of Science and Technology of China (USTC), supervised by  <a href='https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl=en&oi=ao'>Prof. Yongdong Zhang</a>. Before joining USTC, I obtained my B.E. degree in Communication Engineering from Shandong University in 2023.
+Nice to meet you! I am Yiyang Zhang (张一阳), currently a second year Master student at the School of Information Science and Technology of University of Science and Technology of China (USTC), supervised by  <a href='https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl=en&oi=ao'>Prof. Yongdong Zhang</a>. Before joining USTC, I obtained my B.E. degree in Communication Engineering from Shandong University in 2023.
 
 My research interest includes LLMs and Recommender Systems. 
 
