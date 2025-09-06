@@ -63,13 +63,17 @@ Feel free to contact me at [yiyangzhang@mail.ustc.edu.cn](mailto:yiyangzhang@mai
     <p><strong>Yiyang Zhang</strong>, Nan Chen</p>
     <div class="periodical"><em>ACL 2025 (Main Conference)</em></div>
     <p>
+      <a href="https://aclanthology.org/2025.acl-long.526/" target="_blank" style="text-decoration:none;">
+        <i class="fas fa-file-alt"></i> Paper
+      </a>
+      |
       <a href="https://github.com/yiyangzhang-hz/PPT" target="_blank" style="text-decoration:none;">
         <i class="fab fa-github"></i> GitHub
       </a>
-    <a href="https://github.com/yiyangzhang-hz/PPT/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/yiyangzhang-hz/PPT?style=social" alt="GitHub stars">
-    </a>
-  </p>
+        <a href="https://github.com/yiyangzhang-hz/PPT/stargazers" target="_blank">
+        <img src="https://img.shields.io/github/stars/yiyangzhang-hz/PPT?style=social" alt="GitHub stars">
+      </a>
+    </p>
   </div>
 </div>
 
