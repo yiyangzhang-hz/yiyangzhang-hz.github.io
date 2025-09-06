@@ -89,6 +89,11 @@ Feel free to contact me at [yiyangzhang@mail.ustc.edu.cn](mailto:yiyangzhang@mai
     <h2>Artificial Bee Colony Algorithm Based on Dimensional Memory Mechanism and Adaptive Elite Population for Training Artificial Neural Networks</h2>
     <p><strong>Yiyang Zhang</strong>, Bao Pang, Yong Song, Qingyang Xu, Xianfeng Yuan</p>
     <div class="periodical"><em>IEEE Access</em></div>
+    <p>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10268445" target="_blank" style="text-decoration:none;">
+        <i class="fas fa-file-alt"></i> Paper
+      </a>
+    </p>
   </div>
 </div>
 
