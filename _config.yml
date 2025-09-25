@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yiyang Zhang"
-description              : "USTC"
+# description              : "USTC"
 # repository               : "yiyangzhang-hz/yiyangzhang-hz.github.io"
 google_scholar_stats_use_cdn : true
 
