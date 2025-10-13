@@ -46,7 +46,7 @@ Feel free to contact me at [yiyangzhang@mail.ustc.edu.cn](mailto:yiyangzhang@mai
   <div class='paper-box-text'>
     <h2>ACE: Attention-Calibrated Encoding for LLM-based Recommendation</h2>
     <p><strong>Yiyang Zhang</strong>, Zheren Fu, Bo Hu, Zhendong Mao</p>
-    <div class="periodical"><em>NeurIPS Submitting</em></div>
+    <div class="periodical"><em>IEEE TBD Submitting</em></div>
   </div>
 </div>
 
