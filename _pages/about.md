@@ -39,7 +39,7 @@ Feel free to contact me at [yiyangzhang@mail.ustc.edu.cn](mailto:yiyangzhang@mai
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">NeurIPS Submitting</div>
+      <div class="badge">IEEE TBD Submitting</div>
       <img src='images/ACE.png' alt="ACE" width="100%">
     </div>
   </div>
