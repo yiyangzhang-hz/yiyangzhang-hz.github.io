@@ -25,13 +25,14 @@ Feel free to contact me at [yiyangzhang@mail.ustc.edu.cn](mailto:yiyangzhang@mai
 
 
 # 🔥 News
-- *May 16, 2025*: &nbsp;🎉🎉 Our paper, "PPT: A Minor Language News Recommendation Model via Cross-Lingual Preference Pattern Transfer", was accepted by ACL 2025 (Main Conference)!
-- *Oct, 2023*: &nbsp; 🎉🎉 My undergraduate research work, "Artificial Bee Colony Algorithm Based on Dimensional Memory Mechanism and Adaptive Elite Population for Training Artificial Neural Networks," was published in IEEE Access!
+- *Sept, 2026*: &nbsp; &nbsp;🎉🎉 I started my Ph.D. at Singapore University of Technology and Design (SUTD)!
+- *June, 2026*: &nbsp; 🎓🎓 I graduated from the University of Science and Technology of China (USTC)!
+- *May, 2025*: &nbsp;🎉🎉 Our paper, "PPT: A Minor Language News Recommendation Model via Cross-Lingual Preference Pattern Transfer", was accepted by <strong>ACL 2025 (Main Conference)</strong>!
+- *Oct, 2023*: &nbsp; 🎉🎉 My undergraduate research work, "Artificial Bee Colony Algorithm Based on Dimensional Memory Mechanism and Adaptive Elite Population for Training Artificial Neural Networks," was published in <strong>IEEE Access</strong>!
 - *Sept, 2023*: &nbsp; 🎉🎉 We won third place in the Cross-platform Account Linkage Track of the 5th Communication Data Mining Competition! 
 - *Sept, 2023*: &nbsp; 😎😎 I started my postgraduate journey at University of Science and Technology of China!
-- *Jun, 2023*: &nbsp; 😎😎 I graduated first in my class from Shandong University!
+- *Jun, 2023*: &nbsp; 😎😎 I graduated <strong>first</strong> in my class from Shandong University!
 - *May, 2023*: &nbsp; 🥳🥳 I participated in a research internship at the Beijing Research Institute of USTC! 
-  
 
 # 📝 Publications 
 
@@ -39,14 +40,14 @@ Feel free to contact me at [yiyangzhang@mail.ustc.edu.cn](mailto:yiyangzhang@mai
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">IEEE TBD Submitting</div>
+      <div class="badge">IEEE TBD Major Revision</div>
       <img src='images/ACE.png' alt="ACE" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
     <h2>ACE: Attention-Calibrated Encoding for LLM-based Recommendation</h2>
     <p><strong>Yiyang Zhang</strong>, Zheren Fu, Bo Hu, Zhendong Mao</p>
-    <div class="periodical"><em>IEEE TBD Submitting</em></div>
+    <div class="periodical"><em>IEEE TBD Major Revision</em></div>
   </div>
 </div>
 
@@ -103,7 +104,11 @@ Feel free to contact me at [yiyangzhang@mail.ustc.edu.cn](mailto:yiyangzhang@mai
 - *October 2020*: &nbsp; **National Scholarship**, Ministry of Education of the People's Republic of China 
 
 # 📖 Education
-- **2023.09 – Present**: &nbsp; Master in Information and Communication Engineering,  
+- **2026.09 – present**: &nbsp; Ph.D. in Information Systems Technology and Design,  
+  Singapore University of Technology and Design (SUTD)
+  Advisor: [Prof. Wenxuan Zhang]([https://scholar.google.com/citations?user=hxGs4ukAAAAJ](https://isakzhang.github.io/index.html))
+
+- **2023.09 – 2026.06**: &nbsp; Master in Information and Communication Engineering,  
   University of Science and Technology of China (USTC)  
   Advisor: [Prof. Yongdong Zhang](https://scholar.google.com/citations?user=hxGs4ukAAAAJ)
 
