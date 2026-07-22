@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yiyang Zhang"
-description              : "Master’s student at USTC"
+description              : "Ph.D. student at SUTD"
 # repository               : "yiyangzhang-hz/yiyangzhang-hz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yiyang Zhang"
-  avatar           : "images/zyy.jpg"
-  bio              : "USTC (University of Science and Technology of China)"
-  location         : "Hefei, China"
+  avatar           : "zyy_Eiffer_500.png"
+  bio              : "SUTD (Singapore University of Technology and Design)"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=McZpHvQAAAAJ"
-  email            : "yiyangzhang@mail.ustc.edu.cn"
+  email            : "yiyang_zhang@mymail.sutd.edu.sg"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
