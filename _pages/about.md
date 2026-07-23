@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Nice to meet you! I am Yiyang Zhang (张一阳), currently a second year Master student at the School of Information Science and Technology of University of Science and Technology of China (USTC), supervised by  <a href='https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl=en&oi=ao'>Prof. Yongdong Zhang</a>. Before joining USTC, I obtained my B.E. degree in Communication Engineering from Shandong University in 2023.
+Nice to meet you! I am Yiyang Zhang (张一阳), currently a first year Ph.D. student in iNLP Lab of Singapore University of Technology and Design (SUTD), supervised by  <a href='[https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl=en&oi=ao](https://isakzhang.github.io/index.html)'>Prof. Wenxuan Zhang</a>. Before joining SUTD, I received my M.S. degree from the University of Science and Technology of China in 2026 and my B.E. degree in Communication Engineering from Shandong University in 2023.
 
-My research interest includes LLMs and Recommender Systems. 
+My research interest includes LLMs and Multi-Agents System. 
 
 Feel free to contact me at [yiyangzhang@mail.ustc.edu.cn](mailto:yiyangzhang@mail.ustc.edu.cn).
 
