@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yiyang Zhang"
-  avatar           : "zyy_Eiffer_500.png"
+  avatar           : "images/zyy_Eiffer_500.png"
   bio              : "SUTD (Singapore University of Technology and Design)"
   location         : "Singapore"
   employer         :
