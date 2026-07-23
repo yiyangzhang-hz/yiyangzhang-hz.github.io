@@ -21,7 +21,7 @@ Nice to meet you! I am Yiyang Zhang (张一阳), currently a first year Ph.D. st
 
 My research interest includes LLMs and Multi-Agents System. 
 
-Feel free to contact me at [yiyangzhang@mail.ustc.edu.cn](mailto:yiyangzhang@mail.ustc.edu.cn).
+Feel free to contact me at [yiyang_zhang@mymail.sutd.edu.sg](mailto:yiyang_zhang@mymail.sutd.edu.sg).
 
 
 # 🔥 News
