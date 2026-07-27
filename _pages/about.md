@@ -106,7 +106,7 @@ Feel free to contact me at [yiyang_zhang@mymail.sutd.edu.sg](mailto:yiyang_zhang
 # 📖 Education
 - **2026.09 – present**: &nbsp; Ph.D. in Information Systems Technology and Design,  
   Singapore University of Technology and Design (SUTD)  
-  Advisor: [Prof. Wenxuan Zhang]([https://scholar.google.com/citations?user=hxGs4ukAAAAJ](https://isakzhang.github.io/index.html))
+  Advisor: [Prof. Wenxuan Zhang](https://isakzhang.github.io/index.html)
 
 - **2023.09 – 2026.06**: &nbsp; Master in Information and Communication Engineering,  
   University of Science and Technology of China (USTC)  
