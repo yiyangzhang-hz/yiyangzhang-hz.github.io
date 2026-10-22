@@ -139,3 +139,8 @@ Feel free to contact me at [yiyang_zhang@mymail.sutd.edu.sg](mailto:yiyang_zhang
 - **2019.09 – 2023.06**: &nbsp; Bachelor in Communication Engineering  
   Shandong University (SDU) – *Honors Program in Quantum Information Engineering*
 
+# 👩‍🏫 Teaching {#teaching}
+
+- **Fall 2026**: &nbsp; Teaching Assistant, [50.040 Natural Language Processing](https://isakzhang.github.io/courses/50040-nlp.html)<br>
+  Singapore University of Technology and Design (SUTD)
+
