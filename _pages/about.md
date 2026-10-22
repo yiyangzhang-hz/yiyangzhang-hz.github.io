@@ -36,6 +36,30 @@ Feel free to contact me at [yiyang_zhang@mymail.sutd.edu.sg](mailto:yiyang_zhang
 
 # 📝 Publications 
 
+<!-- UnCoBench -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv 2026</div>
+      <img src='images/UnCoBench.png' alt="UnCoBench benchmark construction pipeline" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <h2>Beyond Perfect Teammates: Multi-Agent Collaboration with Unreliable Colleagues</h2>
+    <p>Chen Huang, <strong>Yiyang Zhang</strong>, Yuhao Wu, Yang Deng, Wenxuan Zhang</p>
+    <div class="periodical"><em>arXiv preprint, 2026</em></div>
+    <p>
+      <a href="https://arxiv.org/abs/2610.16117" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+        <i class="fas fa-file-alt"></i> Paper
+      </a>
+      |
+      <a href="https://github.com/iNLP-Lab/UnCoBench" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+        <i class="fab fa-github"></i> GitHub
+      </a>
+    </p>
+  </div>
+</div>
+
 <!-- ACE -->
 <div class='paper-box'>
   <div class='paper-box-image'>
