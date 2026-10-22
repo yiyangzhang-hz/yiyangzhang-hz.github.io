@@ -46,7 +46,8 @@ Feel free to contact me at [yiyang_zhang@mymail.sutd.edu.sg](mailto:yiyang_zhang
   </div>
   <div class='paper-box-text'>
     <h2>Beyond Perfect Teammates: Multi-Agent Collaboration with Unreliable Colleagues</h2>
-    <p>Chen Huang, <strong>Yiyang Zhang</strong>, Yuhao Wu, Yang Deng, Wenxuan Zhang</p>
+    <p>Chen Huang<sup>*</sup>, <strong>Yiyang Zhang</strong><sup>*</sup>, Yuhao Wu, Yang Deng, Wenxuan Zhang</p>
+    <p><small><sup>*</sup> Equal contribution (co-first authors).</small></p>
     <div class="periodical"><em>arXiv preprint, 2026</em></div>
     <p>
       <a href="https://arxiv.org/abs/2610.16117" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
@@ -55,6 +56,9 @@ Feel free to contact me at [yiyang_zhang@mymail.sutd.edu.sg](mailto:yiyang_zhang
       |
       <a href="https://github.com/iNLP-Lab/UnCoBench" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
         <i class="fab fa-github"></i> GitHub
+      </a>
+      <a href="https://github.com/iNLP-Lab/UnCoBench/stargazers" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/github/stars/iNLP-Lab/UnCoBench?style=social" alt="UnCoBench GitHub stars">
       </a>
     </p>
   </div>
