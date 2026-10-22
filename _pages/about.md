@@ -130,7 +130,7 @@ Feel free to contact me at [yiyang_zhang@mymail.sutd.edu.sg](mailto:yiyang_zhang
 - *October 2022*: &nbsp; **National Scholarship**, Ministry of Education of the People's Republic of China 
 - *October 2020*: &nbsp; **National Scholarship**, Ministry of Education of the People's Republic of China 
 
-# 📖 Education
+# 📖 Educations
 - **2026.09 – present**: &nbsp; Ph.D. in Information Systems Technology and Design,  
   Singapore University of Technology and Design (SUTD)  
   Advisor: [Prof. Wenxuan Zhang](https://isakzhang.github.io/index.html)
